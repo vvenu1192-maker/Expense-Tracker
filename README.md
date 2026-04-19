@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # Expense Management System
 
 A full-stack expense tracking and management application built with React and Node.js. This system allows users to manage their expenses efficiently with features like transaction tracking, admin dashboard, authentication, and analytics.
+
+Repository: https://github.com/vvenu1192-maker/Expense-Tracker
 
 ---
 
@@ -160,8 +161,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Expense-Management-System.git
-cd Expense-Management-System
+git clone https://github.com/vvenu1192-maker/Expense-Tracker.git
+cd Expense-Tracker
 ```
 
 ### 2. Install Backend Dependencies
@@ -500,14 +501,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Prakash** - Project Creator
+**Venu V** - Project Creator
 
 ---
 
 ## Contact & Support
 
 For issues, questions, or suggestions:
-- Create an issue on GitHub
+- Create an issue on GitHub: https://github.com/vvenu1192-maker/Expense-Tracker/issues
+- Open a pull request: https://github.com/vvenu1192-maker/Expense-Tracker/pulls
 - Contact via email
 - Check existing documentation
 

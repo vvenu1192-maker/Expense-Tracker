@@ -88,7 +88,7 @@ const ContactUs = () => {
                   </div>
                   <div className="contact-info-content">
                     <div className="contact-topic">Address</div>
-                    <div className="contact-text">Prakash & Company Pvt. Ltd, BCIT Park</div>
+                    <div className="contact-text">Venu V & Company Pvt. Ltd, BCIT Park</div>
                     <div className="contact-text">Bangalore, Karnataka, India 560064</div>
                   </div>
                 </div>
@@ -109,13 +109,13 @@ const ContactUs = () => {
                   <div className="contact-info-content">
                     <div className="contact-topic">Email</div>
                     <div className="contact-text">
-                      <a href="mailto:prakash8873saw@gmail.com">
-                        prakash8873saw@gmail.com
+                      <a href="mailto:venu.v@venuvcompany.com">
+                        venu.v@venuvcompany.com
                       </a>
                     </div>
                     <div className="contact-text">
-                      <a href="mailto:info.prakash.company@gmail.com">
-                        info.prakash.company@gmail.com
+                      <a href="mailto:info@venuvcompany.com">
+                        info@venuvcompany.com
                       </a>
                     </div>
                   </div>

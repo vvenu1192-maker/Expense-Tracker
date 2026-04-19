@@ -16,7 +16,7 @@ const AboutUs = () => {
               <div className="about-section">
                 <h2 className="section-title">Our Company</h2>
                 <p className="section-text">
-                  Prakash & Company Pvt. Ltd is a forward-thinking technology company 
+                  Venu V & Company Pvt. Ltd is a forward-thinking technology company 
                   dedicated to providing innovative solutions that simplify financial 
                   management for individuals and businesses. Based in Bangalore, Karnataka, 
                   we are committed to delivering high-quality software solutions that 
@@ -64,7 +64,7 @@ const AboutUs = () => {
                 <h2 className="section-title">Contact Information</h2>
                 <div className="contact-info">
                   <p className="section-text">
-                    <strong>Company:</strong> Prakash & Company Pvt. Ltd<br />
+                    <strong>Company:</strong> Venu V & Company Pvt. Ltd<br />
                     <strong>Address:</strong> BCIT Park, Bangalore, Karnataka, India 560064<br />
                     <strong>For inquiries:</strong> Please visit our{" "}
                     <a href="/contact-us" className="contact-link">Contact Us</a> page

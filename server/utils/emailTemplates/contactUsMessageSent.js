@@ -78,7 +78,7 @@ const contactUsMessageSentSuccess = (user, EMAIL_FROM) => {
                                     🚀 While You Wait:
                                 </p>
                                 <p style="margin: 0; color: #4b5563; font-size: 14px; line-height: 1.7;">
-                                    Explore our <a href="https://expense-management-system-prakash.netlify.app/" style="color: #6366f1; text-decoration: none; font-weight: 600;">Expense Management System</a> and discover all the features available to help you manage your finances efficiently.
+                                    Explore our <a href="https://expense-management-system-venu.netlify.app/" style="color: #6366f1; text-decoration: none; font-weight: 600;">Expense Management System</a> and discover all the features available to help you manage your finances efficiently.
                                 </p>
                             </div>
 
@@ -86,7 +86,7 @@ const contactUsMessageSentSuccess = (user, EMAIL_FROM) => {
                             <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin: 32px 0;">
                                 <tr>
                                     <td align="center">
-                                        <a href="https://expense-management-system-prakash.netlify.app/" style="display: inline-block; background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%); color: #ffffff; text-decoration: none; padding: 16px 32px; border-radius: 10px; font-size: 16px; font-weight: 600; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);">
+                                        <a href="https://expense-management-system-venu.netlify.app/" style="display: inline-block; background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%); color: #ffffff; text-decoration: none; padding: 16px 32px; border-radius: 10px; font-size: 16px; font-weight: 600; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);">
                                             🌐 Visit Our Application
                                         </a>
                                     </td>
@@ -111,20 +111,20 @@ const contactUsMessageSentSuccess = (user, EMAIL_FROM) => {
                             <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
                                 <tr>
                                     <td align="center" style="padding-bottom: 16px;">
-                                        <a href="https://www.linkedin.com/in/prakash-saw-5b1215220/" style="display: inline-block; margin: 0 12px; text-decoration: none;">
+                                        <a href="https://expense-management-system-venu.netlify.app/" style="display: inline-block; margin: 0 12px; text-decoration: none;">
                                             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32" style="border-radius: 6px;">
                                         </a>
-                                        <a href="https://github.com/Prakashsaw" style="display: inline-block; margin: 0 12px; text-decoration: none;">
+                                        <a href="https://github.com/vvenu1192-maker/Expense-Tracker" style="display: inline-block; margin: 0 12px; text-decoration: none;">
                                             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="32" height="32" style="border-radius: 6px;">
                                         </a>
-                                        <a href="https://prakashsawportfolio.netlify.app/" style="display: inline-block; margin: 0 12px; text-decoration: none;">
+                                        <a href="https://expense-management-system-venu.netlify.app/" style="display: inline-block; margin: 0 12px; text-decoration: none;">
                                             <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" width="32" height="32" style="border-radius: 6px;">
                                         </a>
                                     </td>
                                 </tr>
                             </table>
                             <p style="margin: 0; color: #9ca3af; font-size: 12px; line-height: 1.6;">
-                                This message was sent from Prakash & Company Pvt. Ltd<br>
+                                This message was sent from Venu V & Company Pvt. Ltd<br>
                                 BCIT Park, Bangalore, Karnataka, India 560064
                             </p>
                         </td>

@@ -115,7 +115,7 @@ const TermsAndConditions = () => {
                 <h2 className="legal-heading">8. Intellectual Property</h2>
                 <p className="legal-text">
                   The Service and its original content, features, and functionality are owned by 
-                  Prakash & Company Pvt Ltd and are protected by international copyright, trademark, 
+                  Venu V & Company Pvt Ltd and are protected by international copyright, trademark, 
                   patent, trade secret, and other intellectual property laws.
                 </p>
               </section>
@@ -123,7 +123,7 @@ const TermsAndConditions = () => {
               <section className="legal-section">
                 <h2 className="legal-heading">9. Limitation of Liability</h2>
                 <p className="legal-text">
-                  In no event shall Prakash & Company Pvt Ltd, its directors, employees, or agents 
+                  In no event shall Venu V & Company Pvt Ltd, its directors, employees, or agents 
                   be liable for any indirect, incidental, special, consequential, or punitive damages, 
                   including without limitation, loss of profits, data, use, goodwill, or other intangible 
                   losses, resulting from your use of the Service.
@@ -155,10 +155,10 @@ const TermsAndConditions = () => {
                   If you have any questions about these Terms and Conditions, please contact us at:
                 </p>
                 <ul className="legal-list">
-                  <li>Email: prakash8873saw@gmail.com</li>
-                  <li>Email: info.prakash.company@gmail.com</li>
+                  <li>Email: venu.v@venuvcompany.com</li>
+                  <li>Email: info@venuvcompany.com</li>
                   <li>Phone: +91 8873323323</li>
-                  <li>Address: Prakash & Company Pvt. Ltd, BCIT Park, Bangalore, Karnataka, India 560064</li>
+                  <li>Address: Venu V & Company Pvt. Ltd, BCIT Park, Bangalore, Karnataka, India 560064</li>
                 </ul>
               </section>
 
@@ -175,7 +175,7 @@ const TermsAndConditions = () => {
               <section className="legal-section">
                 <h2 className="legal-heading">14. Entire Agreement</h2>
                 <p className="legal-text">
-                  These Terms constitute the entire agreement between you and Prakash & Company Pvt Ltd 
+                  These Terms constitute the entire agreement between you and Venu V & Company Pvt Ltd 
                   regarding the use of the Expense Management System and supersede all prior agreements 
                   and understandings.
                 </p>
