@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Management System
 
 A full-stack expense tracking and management application built with React and Node.js. This system allows users to manage their expenses efficiently with features like transaction tracking, admin dashboard, authentication, and analytics.
@@ -538,3 +539,7 @@ For issues, questions, or suggestions:
 ---
 
 **Happy Expense Tracking! 🎯**
+=======
+# Expense-Tracker
+Full MERN Stack Project
+>>>>>>> d6a5c97de137bbdf784a961c4929151b40f056d6
