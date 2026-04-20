@@ -23,7 +23,7 @@ const Home = () => {
               <h2>Welcome to Expense Management System</h2>
               <p>
                 Welcome to the{" "}
-                <span className="app-name">Expense Management System</span> App.
+                <span className="app-name">Expense Management System</span>.
                 Take control of your finances with our powerful and intuitive expense tracking platform. 
                 Track your income and expenses, analyze spending patterns with beautiful visualizations, 
                 and make smarter financial decisions. Manage your money efficiently and achieve your financial goals.
